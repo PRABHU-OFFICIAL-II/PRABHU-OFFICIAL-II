@@ -1,89 +1,79 @@
-# 👋 Hey there, I'm Prabhu Prasad Penthoi
+<!-- Banner Section -->
+<h1 align="center">👋 Hey there, I'm Prabhu Prasad Penthoi</h1>
+<h3 align="center">Full-Stack Developer | Informatica IICS Engineer | Cloud & Automation Enthusiast</h3>
 
-🚀 **Full-Stack Developer | Informatica Engineer | Cloud & Integration Enthusiast**
-
-Welcome to my GitHub! I’m a passionate developer who loves building efficient solutions — from **enterprise data integration** to **modern web and mobile applications**.  
-I focus on writing clean, scalable, and well-structured code while constantly exploring new technologies.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PRABHU-OFFICIAL-II&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p>
 
 ---
 
-## 🧾 About Me
+## 🧭 About Me
 
-- 💼 **Currently:** Informatica Cloud (IICS) Engineer — working with API integrations, data pipelines, and automation utilities.  
-- 🎓 **Background:** Experienced in Java, React.js, Node.js, Informatica IICS, REST APIs, and cloud (AWS / Azure).  
-- 🧠 **Learning:** ML Models in Android, Cross-Platform App Development, and Next.js.  
-- 🤝 **Collaboration:** I love contributing to open-source projects and helping devs build impactful tools.  
-- 🌍 **Portfolio / Résumé:** [View My Résumé →](https://drive.google.com/YOUR_RESUME_LINK)  
+💡 A results-driven engineer specializing in **data integration, API automation, and full-stack development**.  
+I’m passionate about **automating enterprise workflows**, **building robust backend systems**, and **creating sleek front-end interfaces**.
+
+🚀 **Currently Working On:**  
+- Advanced Informatica IICS utilities using **Java REST APIs**  
+- Custom connectors and **OAuth automation scripts**  
+- Full-stack applications using **React.js, Node.js, and MongoDB**  
+- Cloud integrations with **AWS (Lambda, EC2, S3)** & **Azure ADLS Gen2**
+
+💬 **Ask me about:** Java, Informatica IICS, API integration, REST automation, Cloud orchestration, and CI/CD setups.  
+🎯 **Goal (2025):** Build intelligent automation tools for cloud-native data ecosystems.  
+🧠 **Exploring:** AI-assisted ETL pipelines, Next.js, and IoT edge computing.  
 
 ---
 
 ## 🧩 Tech Stack
 
-**Languages:**  
-☕ Java • JavaScript (ES6+) • Python • SQL • Shell Script  
+### 🖥️ **Languages**
+`Java` • `JavaScript (ES6+)` • `Python` • `SQL` • `Bash / PowerShell`  
 
-**Frameworks & Tools:**  
-🔹 React.js • Node.js / Express.js • Next.js • REST APIs • HTML5 / CSS3  
-🔹 Informatica IICS • Snowflake • Oracle • PostgreSQL • AWS (EC2, S3, Lambda)  
-🔹 Git / GitHub • PowerShell • JSON / XML • cURL  
+### ⚙️ **Frameworks & Tools**
+`React.js` • `Node.js` • `Express.js` • `Next.js` • `Informatica IICS` • `Spring Boot` • `AWS Lambda` • `Azure ADLS Gen2`
 
-**Other Interests:**  
-🎨 UI/UX Design • DevOps • API Automation • IoT Solutions  
+### ☁️ **Cloud & DevOps**
+`AWS (EC2/S3/IAM)` • `Azure` • `Docker` • `GitHub Actions` • `cURL` • `REST API Testing`  
+
+### 🧱 **Databases**
+`Snowflake` • `PostgreSQL` • `Oracle` • `MongoDB`  
+
+### 🧠 **Other Skills**
+`OAuth Automation` • `API Token Management` • `Taskflow Orchestration` • `Data Pipeline Optimization` • `UI/UX`  
 
 ---
 
 ## 💼 Professional Experience
 
-### 💻 Informatica Intelligent Cloud Services (IICS) Engineer
-**Informatica | 2023 – Present**  
-- Integrated Google Analytics 4, AWS Lambda, and REST API-based monitoring for Taskflows.  
-- Designed **Java utilities** for API login, package export/import automation, and permission management.  
-- Built automation scripts in **PowerShell and Shell** for agent and job monitoring.  
-- Assisted multiple enterprise clients with **Informatica connector** configurations (SAP, REST, JDBC, Snowflake, ADLS Gen2).  
-- Developed internal tools like **CrossProdAssetExportUtility** for asset migrations between orgs.  
+### 🧩 Informatica Cloud (IICS) Engineer | 2023 – Present
+**Informatica Intelligent Data Management Cloud (IDMC)**  
+- Built Java-based automation utilities (`CrossProdAssetExportUtility`) to migrate assets across orgs via REST APIs.  
+- Designed custom Taskflow monitoring using **AWS Lambda** — monitors task status until completion.  
+- Created **PowerShell** and **Bash** utilities for Secure Agent monitoring, cleanup, and logging analysis.  
+- Implemented **OAuth token refresh systems** for REST V2 connections to ensure uninterrupted integrations.  
+- Worked with connectors like **SAP, Snowflake, JDBC V2, REST, ADLS Gen2, and Salesforce**.  
+- Authored **Knowledge Base** articles and scripts for internal automation.  
+
+### 🧠 Full-Stack Developer (Freelance Projects)
+- Developed **TLSFuelEntry**, a full-stack fuel-entry management system with AWS cloud integration.  
+- Built **IoT-based Remote Patient Monitoring System** for heart failure analysis (academic research).  
+- Worked on **Next.js dashboards** for visualizing ETL data and **Node.js APIs** for workflow automation.  
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|----------|--------------|------------|------|
-| 🧠 **CrossProdAssetExportUtility** | Java-based tool for automating IICS asset export/import between environments with interactive CLI. | Java, REST API | [Repo](https://github.com/PRABHU-OFFICIAL-II/CrossProdAssetExportUtility) |
-| ☁️ **ADLS Gen2 Java Utility** | Connects to Azure Data Lake Storage Gen2 and performs file operations. | Java, Azure SDK | [Repo](https://github.com/PRABHU-OFFICIAL-II/ADLSGen2Utility) |
-| 🔄 **IICS Taskflow Monitor (Lambda)** | AWS Lambda script that checks IICS Taskflow status using REST API until completion. | Python, AWS, REST API | [Repo](https://github.com/PRABHU-OFFICIAL-II/IICS-Lambda-Monitor) |
-| 🧰 **Force Log Analyzer** | Enhanced logging and analytics utility for Informatica Force Application. | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/Force-Log-Analyzer) |
-| 💓 **IoT Remote Patient Monitoring** | Research project: IoT-based system for monitoring chronic heart failure patients remotely. | IoT, ML, Cloud | [Repo](https://github.com/PRABHU-OFFICIAL-II/IoT-RPM-HeartFailure) |
-| 🌐 **TLSFuelEntry App** | Full-stack app for secure organizational fuel data tracking. | React.js, Node.js, MongoDB, AWS | [Repo](https://github.com/PRABHU-OFFICIAL-II/TLSFuelEntry) |
+| 🧠 Project | ⚙️ Description | 🧩 Tech Stack | 🔗 Link |
+|------------|----------------|---------------|----------|
+| **CrossProdAssetExportUtility** | Automates export/import of IICS assets with login, upload & import status checks. | Java, REST API | [Repo](https://github.com/PRABHU-OFFICIAL-II/CrossProdAssetExportUtility) |
+| **ADLS Gen2 Utility** | Java CLI tool for ADLS Gen2 file operations and blob management. | Java, Azure SDK | [Repo](https://github.com/PRABHU-OFFICIAL-II/ADLSGen2Utility) |
+| **Force Log Analyzer** | Java-based analyzer to improve Force app logs in Informatica. | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/Force-Log-Analyzer) |
+| **Taskflow Status Lambda** | AWS Lambda integration to check IICS Taskflow run status dynamically. | Python, AWS Lambda | [Repo](https://github.com/PRABHU-OFFICIAL-II/IICS-Lambda-Monitor) |
+| **TLSFuelEntry App** | Full-stack web app for secure data tracking & validation. | React.js, Node.js, MongoDB | [Repo](https://github.com/PRABHU-OFFICIAL-II/TLSFuelEntry) |
+| **IoT Remote Patient Monitoring** | IoT system for heart failure patient data analysis. | IoT, ML, Cloud | [Repo](https://github.com/PRABHU-OFFICIAL-II/IoT-RPM-HeartFailure) |
 
 ---
 
-## 📚 Notable Research & Writing
-
-- 📄 **Research Paper:** _Remote Patient Monitoring using IoT: Addressing Chronic Heart Failure_  
-  → Proposed IoT-enabled remote patient care methodology  
-- 🧑‍💻 **Technical Blogs & Documentation:**  
-  - Informatica IICS REST API automation  
-  - OAuth token refresh handling  
-  - JDBC V2 Connector best use cases  
-
----
-
-## 🛠️ Stats & Highlights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRABHU-OFFICIAL-II&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRABHU-OFFICIAL-II&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/PRABHU-OFFICIAL-II)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)  
-
----
-
-> ✨ _“Code. Integrate. Automate. Repeat.”_  
-> — **Prabhu Prasad Penthoi**
+## 🧮 My Development Workflow
 

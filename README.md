@@ -102,3 +102,81 @@ I specialize in:
 
 ## 🧮 My Workflow (End-to-End Dev Pipeline)
 
+💡 **Concept**  
+⬇️  
+🔍 **Research**  
+⬇️  
+⚙️ **Prototype**  
+⬇️  
+👨‍💻 **Build**  
+⬇️  
+✅ **Test & Debug**  
+⬇️  
+☁️ **Deploy**  
+⬇️  
+📊 **Monitor**  
+⬇️  
+🔁 **Automate**
+
+---
+
+## 🧩 Technical Snippet — IICS REST API Login (Java)
+
+```java
+String loginUrl = "https://dm-us.informaticacloud.com/saas/public/core/v3/login";
+String payload = "{\"username\":\"user@domain.com\",\"password\":\"yourPassword\"}";
+
+HttpURLConnection conn = (HttpURLConnection) new URL(loginUrl).openConnection();
+conn.setRequestMethod("POST");
+conn.setRequestProperty("Content-Type", "application/json");
+conn.setDoOutput(true);
+
+try (OutputStream os = conn.getOutputStream()) {
+    os.write(payload.getBytes(StandardCharsets.UTF_8));
+}
+
+BufferedReader br = new BufferedReader(new InputStreamReader(conn.getInputStream()));
+String response = br.lines().collect(Collectors.joining());
+System.out.println("Login Response: " + response);
+```
+
+## 🏆 Achievements & Recognition
+
+- ⚙️ Built **15+ automation & integration tools** for Informatica IICS.  
+- ☁️ Implemented **REST API–based Taskflow Monitoring** via AWS Lambda.  
+- 🧩 Created **cross-org migration utilities**, saving **100+ manual hours**.  
+- 🚀 Improved **pipeline efficiency by 35%** with optimized connector logic.  
+- 🧠 Published research paper on **IoT-based remote patient monitoring**.  
+- 🧑‍🏫 Mentored developers on **REST V2, OAuth, and API orchestration**.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=PRABHU-OFFICIAL-II&show_icons=true&theme=tokyonight&cache_seconds=86400" 
+       height="160px"/>
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=PRABHU-OFFICIAL-II&theme=tokyonight&cache_seconds=86400" 
+       height="160px"/>
+</p>
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRABHU-OFFICIAL-II&layout=compact&theme=tokyonight&cache_seconds=86400" 
+       height="160px"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- [💼 LinkedIn](https://linkedin.com/in/prabhu2003)  
+- [💻 GitHub Projects](https://github.com/PRABHU-OFFICIAL-II?tab=repositories)  
+- [📧 Email Me](mailto:prabhulitu2003@gmail.com)
+
+---
+
+> 💬 “Turning complex integrations into seamless automations — one API call at a time.”  
+> — *Prabhu Prasad Penthoi*

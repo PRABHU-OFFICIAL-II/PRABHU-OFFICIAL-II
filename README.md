@@ -62,10 +62,10 @@ I specialize in:
 | Project | Description | Tech Stack | Link |
 |----------|--------------|------------|------|
 | **IICSAssetExportUtility** | Automates export of assets from IICS via REST APIs. | Java, REST API | [Repo](https://github.com/PRABHU-OFFICIAL-II/IICSAssetExportUtility) |
-| **iics-permission-management-utility** | CLI utility to delete or modify IICS asset permissions. | Java, REST API | [Repo](https://github.com/PRABHU-OFFICIAL-II/iics-permission-management-utility) |
-| **Versiong_Control_System** | Implements version control for Informatica assets with rollback and sync. | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/Versiong_Control_System) |
-| **na2_repo_infa_OAuth** | OAuth automation and refresh management for IICS REST V2 connections. | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/na2_repo_infa_OAuth) |
-| **VCSPipelineMigration** | Script to automate pipeline migration between Informatica orgs. | JavaScript | [Repo](https://github.com/PRABHU-OFFICIAL-II/VCSPipelineMigration) |
+| **Connect_My_Git** | Utility to access the Github properties through myJGit Libraries and test the accessibility of the Github repositories outside IDMC. | Java, REST API | [Repo](https://github.com/PRABHU-OFFICIAL-II/Connect_My_Git) |
+| **Tomcat Log Parser** | Analyzes the tomcat logs for the Support Engineers to debug the Customer issue further. | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/Tomcat_Log_Parser) |
+| **ODATA_SUCCESSFACTORa_OAuth** | OAuth automation and refresh management for SAP Successfactors connections involving Odta Connection functionalities. | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/ODATA_SUCCESSFACTOR) |
+| **VCSPipelineMigration** | My own Product to solve the issues of the customers experiencing while trying to perform CI/CD Pipelines to Migrate Assets between Informatica orgs. | JavaScript | [Repo](https://github.com/PRABHU-OFFICIAL-II/VCSPipelineMigration) |
 
 ---
 
@@ -97,7 +97,6 @@ I specialize in:
 |----------|--------------|------------|------|
 | **Ipu_recorder_WEB** | Web + Dart-based monitoring interface for IPU analytics. | Dart, Web | [Repo](https://github.com/PRABHU-OFFICIAL-II/Ipu_recorder_WEB) |
 | **MeteringService-RecommendationEngine** | Smart metering system with intelligent recommendations. | Dart, ML | *(Private)* |
-| **IoT Remote Patient Monitoring** | IoT-driven chronic heart failure monitoring system. | IoT, Cloud, ML | [Repo](https://github.com/PRABHU-OFFICIAL-II/IoT-RPM-HeartFailure) |
 
 ---
 

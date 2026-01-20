@@ -1,182 +1,154 @@
-<!-- Header Section -->
-<h1 align="center">👋 Hey, I'm Prabhu Prasad Penthoi</h1>
-<h3 align="center">Software Engineer | Informatica from Salesforce</h3>
+<!-- ================= HEADER ================= -->
+<h1 align="center">
+  👋 Hey, I'm <span style="color:#4CAF50;">Prabhu Prasad Penthoi</span>
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PRABHU-OFFICIAL-II&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=780&lines=Backend+Software+Engineer;Java+%7C+Distributed+Systems+%7C+Cloud;Kafka+%7C+Microservices+%7C+AWS;Building+Scalable+and+Reliable+Platforms" />
+</p>
+
+<h3 align="center">
+  🚀 Software Engineer @ <b>Informatica (Salesforce)</b>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Distributed%20Systems-blue?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PRABHU-OFFICIAL-II&style=flat-square&color=blue"/>
 </p>
 
 ---
 
 ## 🧭 About Me
 
-💡 **Informatica IICS Engineer** and **Full-Stack Developer** passionate about designing automation tools, system integrations, and data-driven applications.  
+Backend Software Engineer with **2+ years of production experience** building **scalable, cloud-native backend systems** at Informatica (Salesforce).  
+I specialize in **Java-based microservices**, **event-driven architectures**, **automation platforms**, and **distributed systems**.
 
-I specialize in:
-- 🔁 **Automation Utilities** using Java, REST APIs, and Informatica Cloud.
-- ☁️ **Cloud & Integration Engineering** (AWS, Azure ADLS Gen2, REST, OAuth).
-- 💻 **Full-Stack Development** (React.js, Node.js, MongoDB, Next.js).
-- 🧠 **AI, IoT, and Intelligent Monitoring** systems.
+I enjoy designing systems that handle **high concurrency**, **large-scale data**, and **real-world failure scenarios**, while maintaining clean architecture and observability.
 
-📍 Based in India | 🌍 Working on projects that bridge **data, automation, and intelligence**.
+📍 India | 🌍 Building platforms that connect **data, automation, and intelligence**
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🧠 Core Expertise
 
-### 💻 **Languages**
-`Java` • `JavaScript (ES6+)` • `Python` • `Dart` • `C++` • `Shell Script` • `SQL`
+- **Backend Engineering**: Java, Multithreading, Concurrency, JVM Tuning  
+- **Distributed Systems**: Event-driven design, fault tolerance, retries, idempotency  
+- **Streaming & Messaging**: Kafka-style pipelines, async processing  
+- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD  
+- **Automation Platforms**: Informatica IICS, REST APIs, OAuth  
+- **Observability**: Prometheus, Grafana, ELK, CloudWatch  
 
-### ⚙️ **Frameworks & Tools**
-`React.js` • `Node.js / Express.js` • `Next.js` • `Spring Boot` • `Informatica IICS` • `AWS Lambda` • `Azure SDK`
+---
 
-### ☁️ **Cloud & DevOps**
-`AWS (EC2, S3, Lambda)` • `Azure ADLS Gen2` • `GitHub Actions` • `Docker` • `OAuth 2.0` • `cURL`
+## 🧰 Tech Stack
 
-### 🧱 **Databases**
-`Snowflake` • `PostgreSQL` • `Oracle` • `MongoDB`
+### 💻 Languages
+`Java` • `Python` • `JavaScript (ES6+)` • `SQL` • `Shell Script` • `Dart`
+
+### ⚙️ Frameworks & Platforms
+`Spring Boot` • `Node.js` • `React.js` • `Next.js` • `Informatica IICS`
+
+### ☁️ Cloud & DevOps
+`AWS (EKS, EC2, S3, Lambda)` • `Docker` • `Kubernetes` • `GitHub Actions` • `Jenkins`
+
+### 🧱 Datastores
+`PostgreSQL` • `Snowflake` • `MongoDB` • `Oracle`
 
 ---
 
 ## 💼 Professional Experience
 
-### 🧩 Informatica Intelligent Cloud Services (IICS) Engineer — *2023–Present*
-- Built and deployed **automation utilities** for asset import/export, OAuth token refresh, and agent health monitoring.  
-- Created **Cross-org migration tools** for assets across environments with progress tracking.  
-- Integrated **AWS Lambda** with IICS to monitor taskflows asynchronously.  
-- Developed **custom REST connectors** and utilities for platforms like Snowflake, SAP, Salesforce, and ADLS Gen2.  
-- Contributed to **IICS internal enhancements**, shell scripts for alerts, and troubleshooting connectors.  
-- Authored **knowledge docs and training utilities** for IICS REST APIs.
+### 🧩 Software Engineer — Informatica (Salesforce)  
+**Jan 2023 – Present**
 
-### 💻 Full-Stack Developer (Freelance & Personal Projects)
-- Designed full-stack apps with **React + Node + MongoDB**.  
-- Built **IoT-enabled monitoring systems** for medical data.  
-- Created internal tools for **GitHub automation, SSH execution, and Excel conversions**.
+- Designed and operated **high-scale Java backend services** processing millions of events with strong focus on **concurrency and JVM performance**.
+- Built **scalable REST APIs and microservices** using clean, stateless architecture.
+- Implemented **event-driven pipelines** using Kafka-style messaging for high-throughput ingestion.
+- Deployed services on **AWS EKS** with autoscaling, rolling updates, and canary deployments.
+- Built **CI/CD pipelines** using Jenkins, GitHub Actions, and GitLab CI.
+- Improved **system reliability and observability** using Prometheus, Grafana, ELK, and CloudWatch.
+- Collaborated across backend, frontend, platform, and product teams to deliver enterprise-grade features.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Backend & Platform Projects
 
-### 🔧 **Automation & IICS Tools**
+### 🔧 Automation & IICS Utilities
 
-| Project | Description | Tech Stack | Link |
-|----------|--------------|------------|------|
-| **IICSAssetExportUtility** | Automates export of assets from IICS via REST APIs. | Java, REST API | [Repo](https://github.com/PRABHU-OFFICIAL-II/IICSAssetExportUtility) |
-| **Connect_My_Git** | Utility to access the Github properties through myJGit Libraries and test the accessibility of the Github repositories outside IDMC. | Java, REST API | [Repo](https://github.com/PRABHU-OFFICIAL-II/Connect_My_Git) |
-| **Tomcat Log Parser** | Analyzes the tomcat logs for the Support Engineers to debug the Customer issue further. | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/Tomcat_Log_Parser) |
-| **ODATA_SUCCESSFACTORa_OAuth** | OAuth automation and refresh management for SAP Successfactors connections involving Odta Connection functionalities. | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/ODATA_SUCCESSFACTOR) |
-| **VCSPipelineMigration** | My own Product to solve the issues of the customers experiencing while trying to perform CI/CD Pipelines to Migrate Assets between Informatica orgs. | JavaScript | [Repo](https://github.com/PRABHU-OFFICIAL-II/VCSPipelineMigration) |
-
----
-
-### ☁️ **Integration Utilities & API Tools**
-
-| Project | Description | Tech Stack | Link |
-|----------|--------------|------------|------|
-| **SSHExecutor** | Executes remote shell commands via Java SSH. | Java, JSch | [Repo](https://github.com/PRABHU-OFFICIAL-II/SSHExecutor) |
-| **SSHConnectionTester** | Lightweight tool to validate SSH connectivity and credentials. | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/SSHConnectionTester) |
-| **ExcelToCSV** | Converts Excel files to CSV using Apache POI library. | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/ExcelToCSV) |
-| **EncryptionOutsideIICSTest** | Custom encryption utility for secure API credential management. | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/EncryptionOutsideIICSTest) |
+| Project | Description | Tech | Link |
+|------|------------|------|------|
+| **IICSAssetExportUtility** | Automates asset export using IICS REST APIs | Java, REST | [Repo](https://github.com/PRABHU-OFFICIAL-II/IICSAssetExportUtility) |
+| **Connect_My_Git** | GitHub accessibility & integration validation tool | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/Connect_My_Git) |
+| **Tomcat Log Parser** | Log analysis tool for production debugging | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/Tomcat_Log_Parser) |
+| **VCSPipelineMigration** | CI/CD migration platform for Informatica orgs | JavaScript | [Repo](https://github.com/PRABHU-OFFICIAL-II/VCSPipelineMigration) |
 
 ---
 
-### 🌐 **Web & UI Projects**
+### ☁️ Integration & Security Utilities
 
-| Project | Description | Tech Stack | Link |
-|----------|--------------|------------|------|
-| **iLanding** | Responsive landing page with clean UI/UX. | HTML, CSS, JS | [Repo](https://github.com/PRABHU-OFFICIAL-II/iLanding) |
-| **Gp** | Modern static web project with front-end styling. | HTML, CSS, JS | [Repo](https://github.com/PRABHU-OFFICIAL-II/Gp) |
-| **community_connect** | A community-driven app for local collaboration. | React, Firebase | [Repo](https://github.com/PRABHU-OFFICIAL-II/community_connect) |
-| **TLSFuelEntry** | Full-stack fuel-entry management with validation & analytics. | React, Node, MongoDB | [Repo](https://github.com/PRABHU-OFFICIAL-II/TLSFuelEntry) |
-
----
-
-### 📱 **Mobile & IoT Projects**
-
-| Project | Description | Tech Stack | Link |
-|----------|--------------|------------|------|
-| **Ipu_recorder_WEB** | Web + Dart-based monitoring interface for IPU analytics. | Dart, Web | [Repo](https://github.com/PRABHU-OFFICIAL-II/Ipu_recorder_WEB) |
-| **MeteringService-RecommendationEngine** | Smart metering system with intelligent recommendations. | Dart, ML | *(Private)* |
+| Project | Description | Tech | Link |
+|------|------------|------|------|
+| **SSHExecutor** | Remote command execution via SSH | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/SSHExecutor) |
+| **ExcelToCSV** | Excel to CSV converter | Java, Apache POI | [Repo](https://github.com/PRABHU-OFFICIAL-II/ExcelToCSV) |
+| **EncryptionOutsideIICSTest** | Secure encryption utility | Java | [Repo](https://github.com/PRABHU-OFFICIAL-II/EncryptionOutsideIICSTest) |
 
 ---
 
-## 🧮 My Workflow (End-to-End Dev Pipeline)
+## 🧮 Engineering Workflow
 
-💡 **Concept**  
-⬇️  
-🔍 **Research**  
-⬇️  
-⚙️ **Prototype**  
-⬇️  
-👨‍💻 **Build**  
-⬇️  
-✅ **Test & Debug**  
-⬇️  
-☁️ **Deploy**  
-⬇️  
-📊 **Monitor**  
-⬇️  
-🔁 **Automate**
+**Design → Prototype → Build → Test → Deploy → Monitor → Optimize**
 
 ---
 
-## 🧩 Technical Snippet — IICS REST API Login (Java)
+## 🧩 Sample Backend Snippet (Java REST Login)
 
 ```java
-String loginUrl = "https://dm-us.informaticacloud.com/saas/public/core/v3/login";
-String payload = "{\"username\":\"user@domain.com\",\"password\":\"yourPassword\"}";
+HttpURLConnection conn = (HttpURLConnection)
+new URL(loginUrl).openConnection();
 
-HttpURLConnection conn = (HttpURLConnection) new URL(loginUrl).openConnection();
 conn.setRequestMethod("POST");
 conn.setRequestProperty("Content-Type", "application/json");
 conn.setDoOutput(true);
-
-try (OutputStream os = conn.getOutputStream()) {
-    os.write(payload.getBytes(StandardCharsets.UTF_8));
-}
-
-BufferedReader br = new BufferedReader(new InputStreamReader(conn.getInputStream()));
-String response = br.lines().collect(Collectors.joining());
-System.out.println("Login Response: " + response);
 ```
 
-## 🏆 Achievements & Recognition
+---
 
-- ⚙️ Built **15+ automation & integration tools** for Informatica IICS.  
-- ☁️ Implemented **REST API–based Taskflow Monitoring** via AWS Lambda.  
-- 🧩 Created **cross-org migration utilities**, saving **100+ manual hours**.  
-- 🚀 Improved **pipeline efficiency by 35%** with optimized connector logic.  
-- 🧠 Published research paper on **IoT-based remote patient monitoring**.  
-- 🧑‍🏫 Mentored developers on **REST V2, OAuth, and API orchestration**.
+## 🧠 System Design & Engineering Principles
+
+I design backend systems with a strong emphasis on **scalability, reliability, and operability**.  
+Key principles I consistently apply in production systems:
+
+- **Scalability**: Horizontal scaling, stateless services, partitioned workloads  
+- **Reliability**: Fault isolation, retries with exponential backoff, idempotent APIs  
+- **Performance**: JVM tuning, asynchronous execution, minimizing contention and hot paths  
+- **Observability**: Metrics-first design, structured logging, actionable alerts  
+- **Security**: Secure API design, OAuth flows, least-privilege access  
+- **Simplicity**: Clean architecture, clear ownership, pragmatic trade-offs  
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 What I’m Actively Improving
 
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=PRABHU-OFFICIAL-II&show_icons=true&theme=tokyonight&cache_seconds=86400" 
-       height="160px"/>
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=PRABHU-OFFICIAL-II&theme=tokyonight&cache_seconds=86400" 
-       height="160px"/>
-</p>
-
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRABHU-OFFICIAL-II&layout=compact&theme=tokyonight&cache_seconds=86400" 
-       height="160px"/>
-</p>
+- Advanced **Kafka streaming patterns** (consumer groups, back-pressure, ordering guarantees)  
+- **Low-latency Java** and JVM performance optimization  
+- **Cloud-native system design** on AWS (EKS, resilience patterns)  
+- **Large-scale distributed system design** and failure-mode analysis  
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Open to Collaboration
 
-- [💼 LinkedIn](https://linkedin.com/in/prabhu2003)  
-- [💻 GitHub Projects](https://github.com/PRABHU-OFFICIAL-II?tab=repositories)  
-- [📧 Email Me](mailto:prabhulitu2003@gmail.com)
+I’m always interested in collaborating on:
+- Backend & platform engineering projects  
+- Distributed systems & streaming platforms  
+- Automation tools and developer productivity solutions  
+- Open-source contributions in Java and cloud-native ecosystems  
 
----
-
-> 💬 “Turning complex integrations into seamless automations — one API call at a time.”  
-> — *Prabhu Prasad Penthoi*
+📬 Feel free to reach out if you’d like to build something impactful together.

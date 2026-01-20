@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">👋 Hey, I'm Prabhu Prasad Penthoi</h1>
-<h3 align="center">Cloud Software Engineer | Informatica Cloud</h3>
+<h3 align="center">Software Engineer | Informatica from Salesforce</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PRABHU-OFFICIAL-II&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>

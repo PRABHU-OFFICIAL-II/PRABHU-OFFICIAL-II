@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-  🚀 Software Engineer @ <b>Informatica (Salesforce)</b>
+  🚀 Software Engineer @ <b>Salesforce</b>
 </h3>
 
 <p align="center">

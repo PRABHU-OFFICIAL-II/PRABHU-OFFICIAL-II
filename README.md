@@ -12,6 +12,12 @@
 </h3>
 
 <p align="center">
+  <a href="https://personal-portfolio-theta-gray.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-Visit%20Now-4CAF50?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -107,7 +113,7 @@ I enjoy designing systems that handle **high concurrency**, **large-scale data**
 
 ---
 
-## 🧩 Sample Backend Snippet (Java REST Login)
+## 🧩 Sample Backend Snippet, I generally use FR (Java REST Login)
 
 ```java
 HttpURLConnection conn = (HttpURLConnection)
@@ -149,6 +155,33 @@ I’m always interested in collaborating on:
 - Backend & platform engineering projects  
 - Distributed systems & streaming platforms  
 - Automation tools and developer productivity solutions  
-- Open-source contributions in Java and cloud-native ecosystems  
+- Open-source contributions in Java and cloud-native ecosystems
+
+---
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="380"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=PRABHU-OFFICIAL-II&show_icons=true&theme=tokyonight&hide_border=true" width="380"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRABHU-OFFICIAL-II&theme=tokyonight&hide_border=true" width="380"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRABHU-OFFICIAL-II&layout=compact&theme=tokyonight&hide_border=true" width="380"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PRABHU-OFFICIAL-II&theme=tokyo-night&hide_border=true" />
+</p>
 
 📬 Feel free to reach out if you’d like to build something impactful together.
